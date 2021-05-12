@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: lightgrey;
+    text-align: center;
+}
+h1{
+    background-color: darkgray;
+    color: mediumblue;
+}
+section{
+    margin: 0 30%;
+    width: 40%;
+    /* text-align: center; */
+}
+h2{
+    background-color: darkgray;
+    text-align: center;
+    color: maroon;
+}
+span{
+    font-weight: bold;
+}
+dl{
+    padding: 0 25px;
+}
+footer{
+    background-color: midnightblue;
+    text-align: center;
+}
+a img {
+    height: 20px;
+    width: 20px;
+}
+#tel{
+    color: moccasin;
+}
+a{
+    margin: 0 10px;
+}
